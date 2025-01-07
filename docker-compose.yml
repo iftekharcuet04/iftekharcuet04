@@ -1,0 +1,17 @@
+version: '3'
+services:
+  react-app:
+    build:
+      context: ./
+    volumes:
+      - ./:/app
+    ports:
+      - "3000:3000"
+
+  # react-nginx:
+  #   build:
+  #     context: ./
+  #   volumes:
+  #     - ./dist:/usr/share/nginx/html
+  #   ports:
+  #     - "5000:80"
