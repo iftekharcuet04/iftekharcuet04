@@ -34,5 +34,5 @@ I am a backend-focused full stack developer with experience building scalable sy
 ## Contact
 
 - GitHub: [iftekharcuet04](https://github.com/iftekharcuet04)
-- LinkedIn: [Profile](www.linkedin.com/in/md-iftekharul-islam-backend)
+- LinkedIn: [md-iftekharul-islam-backend](https://www.linkedin.com/in/md-iftekharul-islam-backend)
 - Email: iftekharcuet04@gmail.com
