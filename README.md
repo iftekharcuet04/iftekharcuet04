@@ -14,7 +14,7 @@ I am a backend-focused full stack developer with experience building scalable sy
 **Backend:** Node.js, NestJS, Express, Laravel  
 **Frontend:** React.js, Redux, Tailwind CSS  
 **Databases:** MySQL, PostgreSQL 
-**ORM Tools** Prisma, Sequelize
+**ORM Tools:** Prisma, Sequelize
 **DevOps:** Docker, Redis, AWS S3  
 **Tools & Others:** BullMQ, Puppeteer, Google Apps Script
 
