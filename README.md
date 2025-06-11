@@ -10,7 +10,7 @@ I am a backend-focused full stack developer with experience building scalable sy
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, PHP, Python  
+**Languages:** JavaScript, TypeScript, PHP 
 **Backend:** Node.js, NestJS, Express, Laravel  
 **Frontend:** React.js, Redux, Tailwind CSS  
 **Databases:** MySQL, PostgreSQL 
