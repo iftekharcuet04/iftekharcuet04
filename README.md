@@ -10,11 +10,11 @@ I am a backend-focused full stack developer with experience building scalable sy
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, PHP 
+**Languages:** JavaScript, TypeScript, PHP   
 **Backend:** Node.js, NestJS, Express, Laravel  
 **Frontend:** React.js, Redux, Tailwind CSS  
-**Databases:** MySQL, PostgreSQL 
-**ORM Tools:** Prisma, Sequelize
+**Databases:** MySQL, PostgreSQL           
+**ORM Tools:** Prisma, Sequelize  
 **DevOps:** Docker, Redis, AWS S3  
 **Tools & Others:** BullMQ, Puppeteer, Google Apps Script
 
