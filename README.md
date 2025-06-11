@@ -4,7 +4,7 @@ I am a backend-focused full stack developer with experience building scalable sy
 
 ## About Me
 
-- 6+ years of experience in web development
+- 7+ years of experience in web development
 - Skilled in scalable backend development with microservices and event-driven architecture
 - Passionate about clean code, API design, and developer productivity
 
