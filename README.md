@@ -16,7 +16,7 @@ I am a backend-focused full stack developer with experience building scalable sy
 **Databases:** MySQL, PostgreSQL           
 **ORM Tools:** Prisma, Sequelize  
 **DevOps:** Docker, Redis, AWS S3  
-**Tools & Others:** BullMQ, Puppeteer, Google Apps Script
+**Tools & Others:** BullMQ, Puppeteer, Playwright, Google Apps Script
 
 ## Projects
 
