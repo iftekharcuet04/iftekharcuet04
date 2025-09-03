@@ -20,9 +20,9 @@ I am a backend-focused full stack developer with experience building scalable sy
 
 ## Projects
 
-1. **Auto Social Poster** – Official system for AI-generated LinkedIn post creation and scheduling  
+1. **Auto Social Poster** – Official system for AI-generated and automated post creation and scheduling  
    _[Private or proprietary system]_
-2. **Schema Generation For SEO** – Official system for AI-generated LinkedIn post creation and scheduling  
+2. **Schema Generation For SEO** – Official system for Business SEO Schema genearion
    _[Private or proprietary system]_
 
 3. **NestJS with Message Translation** – Implements dynamic i18n translation system in NestJS  
