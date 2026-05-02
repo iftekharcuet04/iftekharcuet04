@@ -1,40 +1,40 @@
 # Hi, I'm Iftekhar
 
-I am a backend-focused full stack developer with experience building scalable systems, automating social media posting, and integrating third-party APIs. I specialize in Node.js, NestJS, React and Redis. My work focuses on performance optimization, service architecture, and automation.
+I am a **Senior Backend-focused Full Stack Developer** with over **8 years of experience** building scalable systems, automating social media workflows, and integrating complex third-party APIs. I specialize in **Node.js, NestJS, React, and Redis**, with a core focus on performance optimization, service architecture, and high-throughput automation.
 
 ## About Me
 
-- 7+ years of experience in web development
-- Skilled in scalable backend development with microservices and event-driven architecture
-- Passionate about clean code, API design, and developer productivity
+- **8+ years of experience** in professional web development.
+- **Backend Specialist:** Expert in scalable microservices and event-driven architecture using BullMQ and Redis.
+- **Architectural Integrity:** Passionate about clean code, the Repository Pattern, and building resilient API designs.
+- **Full Stack Capability:** Proficient in building modern, responsive user interfaces with React.js to complement robust backend services.
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, PHP   
+**Languages:** TypeScript, JavaScript, PHP  
 **Backend:** Node.js, NestJS, Express, Laravel  
-**Frontend:** React.js, Redux 
-**Databases:** MySQL, PostgreSQL           
+**Frontend:** React.js, Redux, HTML5, CSS3  
+**Databases:** PostgreSQL, MySQL, DynamoDB  
 **ORM Tools:** Prisma, Sequelize  
-**DevOps:** Docker, Redis, AWS S3  
-**Tools & Others:** BullMQ, Puppeteer, Playwright, Google Apps Script
+**DevOps:** Docker, Redis, Nginx, AWS S3  
+**Tools & Others:** BullMQ, Puppeteer, Playwright, OpenAI API, Google Apps Script
 
 ## Projects
 
-1. **Auto Social Poster** – Official system for AI-generated and automated post creation and scheduling  
-   _[Private or proprietary system]_
-   * Related: - demo project for social media post
-     Github:  [Social Media](https://github.com/iftekharcuet04/social-media.git)
-3. **Schema Generation For SEO** – Official system for Business SEO Schema genearion
-   _[Private or proprietary system]_
+1. **Auto Social Poster** – An enterprise system for post creation and automated scheduling. It features robust retry logic and handles complex social media API integrations.  
+   *Related:* [Social Media Demo Project](https://github.com/iftekharcuet04/social-media.git)
 
-4. **NestJS with Message Translation** – Implements dynamic i18n translation system in NestJS  
+2. **Schema Generation For SEO** – A specialized system for official Business SEO Schema generation, focusing on structured data accuracy and search engine visibility.  
+   *[Private or proprietary system]*
+
+3. **NestJS with Message Translation** – A production-grade boilerplate implementing a dynamic i18n translation system and centralized global messaging.  
    GitHub: [NestJS Translation Example](https://github.com/iftekharcuet04/nestjs-bolierplate-trans)
 
-5. **Exploring Working Process of a Framework** – Investigating internal behavior of backend frameworks  
+4. **Framework Internal Exploration** – An investigation into the core mechanics and working processes of backend frameworks to optimize performance.  
    GitHub: [Framework Exploration](https://github.com/iftekharcuet04/ts-framework)
 
 ## Contact
 
-- GitHub: [iftekharcuet04](https://github.com/iftekharcuet04)
-- LinkedIn: [md-iftekharul-islam-backend](https://www.linkedin.com/in/md-iftekharul-islam-backend)
-- Email: iftekharcuet04@gmail.com
+- **LinkedIn:** [md-iftekharul-islam-backend](https://www.linkedin.com/in/md-iftekharul-islam-backend)
+- **GitHub:** [iftekharcuet04](https://github.com/iftekharcuet04)
+- **Email:** iftekharcuet04@gmail.com
